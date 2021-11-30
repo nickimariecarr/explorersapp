@@ -78,7 +78,7 @@ function About() {
                         <Card.Body>
                           <Card.Title>Goal Three</Card.Title>
                           <Card.Text>
-                            Help children build more relationships with like minded individuals. 
+                            Help childrlen build more relationships with like minded individuals. 
                           </Card.Text>
                         </Card.Body>
                       </Card>
